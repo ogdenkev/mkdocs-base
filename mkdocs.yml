@@ -1,2 +1,4 @@
 site_name: EasyOocyte
-theme: readthedocs
+theme:
+    name: null
+    custom_dir: 'material_theme'
