@@ -4,7 +4,7 @@ title: Voltage Protocol
 
 ## How to create a voltage control protocol
 
-Open up the voltage protocol dialog by clicking the menu Edit > Voltage
+Open up the voltage protocol dialog by clicking the menu `Edit > Voltage`
 
 If you've gone through the [Getting Started]() tutorial, you're no doubt familiar with this table.
 

@@ -1,3 +1,9 @@
 site_name: EasyOocyte
 theme:
     name: 'readthedocs'
+pages:
+    - index.md
+    - main-window.md
+    - voltage-protocol.md
+    - auto-analysis.md
+    - contact.md

@@ -1,8 +1,6 @@
 ---
-title: EasyOotye
+title: EasyOocyte
 ---
-
-## EasyOotcyte
 
 Fast and simple two-electrode voltage clamp recordings.
 
@@ -11,10 +9,6 @@ Fast and simple two-electrode voltage clamp recordings.
 ### Windows
 
 Get the [latest version](). Run the installer once it finishes downloading.
-
-### Mac
-
-### Linux
 
 ## Getting Started
 
@@ -29,21 +23,21 @@ This document explains how to use EasyOocyte to record ion channel currents and 
 
 1. Start EasyOocyte by going to `Start > All Programs > EasyOocyte` or double click the desktop icon.
     ![]()
-2. Bring up the Configure Digitize dialog box by clicking on the Configure > Digitize in the main menu
+2. Bring up the Configure Digitize dialog box by clicking on `Configure > Digitize` in the main menu
     ![]()
 3. Select your AD Board
 
 ### Create a solution protocol
 
-In the menu, go to Edit > Protocol to show the solutions protocol dialog box. Here you can set up to 500 epochs of solution applications. Each row in the table configures an epoch.
+In the menu, go to `Edit > Protocol` to show the solutions protocol dialog box. Here you can set up to 500 epochs of solution applications. Each row in the table configures an epoch.
 
 ### Create an analysis protocol
 
-To set up an analysis protocol, go to the Edit > XXX menu. The analysis protcols are set in the table. Similar to the solution protocol, each row configures one analysis region.
+To set up an analysis protocol, go to the `Edit > XXX menu`. The analysis protcols are set in the table. Similar to the solution protocol, each row configures one analysis region.
 
 ### Start recording
 
-Now that you've got the digitize set up, and specifiec a solution protocol and an analysis protocol, you're ready to record. Simply click the Record button. You should see the currents plotted on the recording areas. EasyOocyte will automatically save the recordings to the folder you selected with file name format YYYY-MM-DD.abf. The protocol settings will be saved alongside the recording with the .prm extension (Don't ask what it stands for, just roll with it.)
+Now that you've got the digitize set up, and specified a solution protocol and an analysis protocol, you're ready to record. Simply click the Record button. You should see the currents plotted on the recording areas. EasyOocyte will automatically save the recordings to the folder you selected with file name format YYYY-MM-DD.abf. The protocol settings will be saved alongside the recording with the .prm extension (Don't ask what it stands for, just roll with it.)
 
 ### What's next?
 
