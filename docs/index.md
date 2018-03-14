@@ -2,6 +2,8 @@
 title: EasyOocyte
 ---
 
+## EasyOoctye
+
 Fast and simple two-electrode voltage clamp recordings.
 
 ## Installation
@@ -14,8 +16,8 @@ Get the [latest version](). Run the installer once it finishes downloading.
 
 This document explains how to use EasyOocyte to record ion channel currents and control solution exchange in your two electrode voltage clamp electrophysiology rig. You will learn:
 
-* how to configure EasyOocyte with your favorite [National Intruments AD board]() and the [Warner Instruments OC-275C]() TEVC amplifier
-* how to create a protocol to control a [Hamilton rotary valve]() for solution exchange
+* how to configure EasyOocyte with your favorite [National Intruments AD board](http://www.ni.com/en-us/shop/select/multifunction-io-device) and the [Warner Instruments OC-275C](https://www.warneronline.com/product_info.cfm?id=168) TEVC amplifier
+* how to create a protocol to control a [Hamilton rotary valve](https://www.hamiltoncompany.com/products/liquid-handling-components/valve-positioner) for solution exchange
 * how to create an analysis protocol to automatically measure the currents in your recordings
 * how to start recording data!
 
@@ -37,7 +39,7 @@ To set up an analysis protocol, go to the `Edit > XXX menu`. The analysis protco
 
 ### Start recording
 
-Now that you've got the digitize set up, and specified a solution protocol and an analysis protocol, you're ready to record. Simply click the Record button. You should see the currents plotted on the recording areas. EasyOocyte will automatically save the recordings to the folder you selected with file name format YYYY-MM-DD.abf. The protocol settings will be saved alongside the recording with the .prm extension (Don't ask what it stands for, just roll with it.)
+Now that you've got the digitizer set up, and specified a solution protocol and an analysis protocol, you're ready to record. Simply click the Record button. You should see the currents plotted on the recording areas. EasyOocyte will automatically save the recordings to the folder you selected with file name format YYYY-MM-DD.abf. The protocol settings will be saved alongside the recording with the .prm extension (Don't ask what it stands for, just roll with it.)
 
 ### What's next?
 
@@ -51,12 +53,12 @@ Something not working? Check out our [FAQs](faq.html) to see if there's a soluti
 
 * Windows XP, 7, or 10
 
-Although all that's need to run EasyOocyte is a computer running a recent Windows operating system, you'll of course want to record some data! For that you'll also want the following:
+Although all you need to run EasyOocyte is a computer with a recent Windows operating system, you'll of course want to record some data! For that you'll also want the following:
 
 * A National Instruments Analog-to-Digital converter (also called a digitizer or A/D board)
-* A two electrode voltage clamp amplifier such as the [Warner Instruments OC-275C]()
-* [Hamilton rotary valves]()
+    - Our favorite one is [BNC-6212](http://sine.ni.com/nips/cds/view/p/lang/en/nid/207097)
+* A two electrode voltage clamp amplifier such as the [Warner Instruments OC-275C](https://www.warneronline.com/product_info.cfm?id=168)
+* [Hamilton rotary valves](https://www.hamiltoncompany.com/products/liquid-handling-components/valve-positioner)
 
-(Our favorite one is [BNC-6212]())
 
 EasyOocyte simplifies the configuration of your 
