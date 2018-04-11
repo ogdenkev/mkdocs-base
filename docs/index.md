@@ -60,5 +60,3 @@ Although all you need to run EasyOocyte is a computer with a recent Windows oper
 * A two electrode voltage clamp amplifier such as the [Warner Instruments OC-275C](https://www.warneronline.com/product_info.cfm?id=168)
 * [Hamilton rotary valves](https://www.hamiltoncompany.com/products/liquid-handling-components/valve-positioner)
 
-
-EasyOocyte simplifies the configuration of your 
